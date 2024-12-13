@@ -56,7 +56,7 @@
     "sass": "1.78.0",
     "sass-true": "^8.1.0",
     "shelljs": "^0.8.5",
-    "stylelint": "^16.11.0",
+    "stylelint": "^16.11.0"
   },
   "files": [
     "dist/{css,js}/*.{css,js,map}",
